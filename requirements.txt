@@ -1,0 +1,5 @@
+# Python libraries for Dubbing Studio
+# Install with: py -m pip install -r requirements.txt
+yt-dlp[default]
+edge-tts
+ 
