@@ -7,13 +7,13 @@
 3. Install packages:
 
    ```powershell
-   py -m pip install -U yt-dlp edge-tts
+   python -m pip install -U yt-dlp edge-tts
    ```
 
 4. Launch the app:
 
    ```powershell
-   py app.py
+   python app.py
    ```
 
 ## Caption workflow
